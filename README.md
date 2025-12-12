@@ -1,16 +1,1 @@
-# aptech_project_three
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a responsive profile page app built with Flutter. It is designed to look and feel great across all devices, whether you’re using a desktop, tablet, or a mobile phone. This project demonstrates multi-column layouts, custom icons, and adaptive UI for different screen sizes.
