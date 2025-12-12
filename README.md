@@ -53,6 +53,9 @@ Scroll Management:
   The app uses SingleChildScrollView to handle content overflow while maintaining clean spacing, ensuring all content is visible and easy to interact with.
 
 
-
+**THIS IS HOW IS LOOKS ON DESKTOP**
 ![Desktop View](https://github.com/Syphaar/flutter-profile-page/blob/436a44cb82c6ee30c6030226cbeabbaa818fe32c/Screenshot%20(573).png)
+
+**THIS IS HOW IT LOOKS ON TABLET**
+![Tablet View](https://github.com/Syphaar/flutter-profile-page/blob/fbc3d3ec5f7ef869ea5a029c44b921a9d8ceff0d/Screenshot%20(574).png)
   
