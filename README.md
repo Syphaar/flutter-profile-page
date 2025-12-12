@@ -58,4 +58,7 @@ Scroll Management:
 
 **THIS IS HOW IT LOOKS ON TABLET**
 ![Tablet View](https://github.com/Syphaar/flutter-profile-page/blob/fbc3d3ec5f7ef869ea5a029c44b921a9d8ceff0d/Screenshot%20(574).png)
+
+**THIS IS HOW IT LOOKS ON TABLET**
+![Mobile View](https://github.com/Syphaar/flutter-profile-page/blob/f6f883095856ccb941fc9c99b86fa4de8588531a/Screenshot%20(575).png)
   
