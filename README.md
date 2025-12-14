@@ -1,6 +1,6 @@
 # Flutter Profile Page – Responsive Multi-Column UI
 
-A responsive profile page app built with **Flutter**. This project demonstrates a clean, modern interface that automatically adapts to any screen size — desktop, tablet, or mobile. It features multi-column layouts, custom icons, and a dynamic user interface designed for ease of use and readability.
+A responsive profile page app built with **Flutter**. This project demonstrates a clean, modern interface that automatically adapts to any screen size, it can be desktop, tablet, or mobile. It features multi-column layouts, custom icons, and a dynamic user interface designed for ease of use and readability.
 
 <!-- ## Live Preview -->
 
@@ -36,7 +36,7 @@ A responsive profile page app built with **Flutter**. This project demonstrates 
 ### Mobile View
 
 <p align="center">
-  <img src="https://github.com/Syphaar/flutter-profile-page/blob/f6f883095856ccb941fc9c99b86fa4de8588531a/Screenshot%20(575).png" width="700" height="500" alt="Mobile View" />
+  <img src="https://github.com/Syphaar/flutter-profile-page/blob/f6f883095856ccb941fc9c99b86fa4de8588531a/Screenshot%20(575).png" width="500" height="500" alt="Mobile View" />
 </p>
 
 *Mobile layout showing a single column with a hamburger menu for easy navigation.*
@@ -69,23 +69,14 @@ All content is wrapped in `SingleChildScrollView` to ensure smooth vertical scro
 - **Flutter**  
 - **Dart**
 
----
-
 ## Project Structure
 ```
 lib/
-├── columns/
-│ ├── left_column.dart → Profile setup guide cards
-│ ├── center_column.dart → Main form (username, institution, etc.)
-│ └── right_column.dart → Tips & benefits section
-├── constants/
-│ └── colors.dart → Centralized color palette
-├── custom_widgets/
-│ ├── left.dart → Reusable guide cards
-│ ├── center.dart → Inputs, dropdowns, form widgets
-│ └── right.dart → Tip & benefit items
-├── responsive_layout.dart → Core responsive logic
-└── main.dart → App entry point
+├── first_column.dart 
+├── home_page.dart 
+├── main.dart
+├── second_column.dart 
+└── third_column.dart 
 ```
 
 ## How To Run
@@ -119,6 +110,6 @@ flutter run -d ios         # iOS device/simulator
 Contributions are welcome! For significant changes, please open an issue first so we can discuss it.
 
 ---
-Built with ❤️ by Mr. Sifon – don’t forget to star the repo if you find it useful!
+Built with ❤️ by Mr. Sifon, don’t forget to star the repo if you find it useful!
 
 
